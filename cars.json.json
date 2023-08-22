@@ -5,7 +5,7 @@
     "bateria": "500 kWh",
     "potencia": "100cv",
     "recarga": "2:00 Hr/min",
-    "urlPhoto": "https://github.com/kevenluiz/cars-api1/blob/main/img/eletric_car.png"
+    "urlPhoto": "https://raw.githubusercontent.com/kevenluiz/cars-api1/main/img/carro-eletrico-caoa-chery-1-1024x637.jpg"
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "bateria": "700 kWh",
     "potencia": "200cv",
     "recarga": "1:30 Hr/min",
-    "urlPhoto": "https://github.com/kevenluiz/cars-api1/blob/main/img/eletric_car.png"
+    "urlPhoto": "https://raw.githubusercontent.com/kevenluiz/cars-api1/main/img/carro-eletrico-caoa-chery-1-1024x637.jpg"
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "bateria": "750 kWh",
     "potencia": "250cv",
     "recarga": "1:15 Hr/min",
-    "urlPhoto": "https://github.com/kevenluiz/cars-api1/blob/main/img/eletric_car.png"
+    "urlPhoto": "https://raw.githubusercontent.com/kevenluiz/cars-api1/main/img/carro-eletrico-caoa-chery-1-1024x637.jpg"
   },
   {
     "id": 4,
@@ -29,6 +29,6 @@
     "bateria": "850 kWh",
     "potencia": "350cv",
     "recarga": "40 min",
-    "urlPhoto": "https://github.com/kevenluiz/cars-api1/blob/main/img/eletric_car.png"
+    "urlPhoto": "https://raw.githubusercontent.com/kevenluiz/cars-api1/main/img/carro-eletrico-caoa-chery-1-1024x637.jpg"
   }
 ]
